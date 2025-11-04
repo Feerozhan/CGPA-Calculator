@@ -3,7 +3,7 @@
 A simple and interactive CGPA calculator built with **React (Vite)** for the frontend and **PHP + MySQL** for the backend.  
 It allows students to input their marks or grades and automatically calculates the CGPA with real-time updates.
 
-LIVE DEMO 
+LIVE DEMO  https://delicate-cat-8ba2c5.netlify.app/
 
 ## 📁 Project Structure
 
